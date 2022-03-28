@@ -1,121 +1,118 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Saif Alushi",
+    "occupation": "Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hello my name is Saif Alushi! I am a junior Software Engineer who loves headeaches... My first introduction was when I asked my friend for an old textbook of his from college and I taught my self some C++. From there I went on to pursue my associates in computer science and work in sales. During my time at Uber I realized I looked forward to the end of the day so I could start coding. So I quit my job and attend General Assembly's software engineering bootcamp.",
+    "contactmessage": "Get in touch with me!",
+    "email": "alushisaif@gmail.com",
+    "phone": "",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": ""
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "resume.pdf",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/saif-alushi/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/saifalushi1",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "General Assembly",
+        "degree": "Software Engineering Immersive"
+      },
+      {
+        "school": "Moraine Valley Community College",
+        "degree": "Associate Of Science, Computer Science"
       }
+      
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Uber",
+        "title": "SMB Consultant",
+        "years": "Aug 2021 - Jan 2022",
+        "description": "Negotiated sales deals between businesses and Uber, resulting in mutually beneficial agreements and cultivated relationships. Built and strengthened relationships with new and existing accounts to drive revenue growth. Identified client business needs by gaining understanding of goals, objectives and processes. Recorded and maintained sales prospect and sales data within salesforce. Stayed up-to-date on changing industry and product standards and trends relatedto accounts. Created solutions to problems through the U4B platform and allowed businesses to leverage Uber's core services."
+      },
+      {
+        "company": "Swhaus",
+        "title": "Sr. Account Executive",
+        "years": "May 2020 - Aug 2021",
+        "description": "Built and strengthened relationships with new and existing accounts to drive revenue growth. Helped implement go-to-market sales strategy using company data to accurately target our demographic. Created and managed digital marketing campaigns specifically to suit client needs. Created and assisted in content marketing strategies to help expand outreach. Client relationships that I have established but are not limited to: TVMG, Dress to Impress, Built by.AI, Sociafy, Financial Assest Protection, S2 CommerceView. Generated over $1M in revenue. Helped generate hundreds of inbound leads for our company through improved marketing campaigns and ads."
+      },
+      {
+        "company": "Chicago Connect",
+        "title": "Lead Project Account Manager",
+        "years": "May 2019 - Apr 2020",
+        "description": "Delivered engaging and polished presentations to highlight products and draw favorable competitor comparisons. Managed high-value accounts through consultative ad campaigns, effective customer solutions and promoting compelling business opportunities. Clients I have manged but not limited to: Xfinity, AT&T Oversaw business development and client analytics that lead to a 12% increase in revenue for the company during my first year. Improved account management by predicting potential competitive threats and outlining proactive solutions. Liaised communication between account holders and cross-functional departments. Assisted in total YoY growth through recommenced marketing Strategies and deep knowledge."
       }
+      
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "JavaScript"
       },
       {
-        "name": "Python",
-        "level": "85%"
+        "name": "Python"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "SQL"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
+        "name": "React"
       },
       {
-        "name": "Web Development",
-        "level": "95%"
+        "name": "Django"
+      },
+      {
+        "name": "Express"
+      },
+      {
+        "name": "Node"
+      },
+      {
+        "name": "Postgres"
+      },
+      {
+        "name": "C++"
+      },
+      {
+        "name": "MongoDB"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Tider",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "tider.png",
+        "url": "https://github.com/saifalushi1/tider-frontend"
       },
       {
-        "title": "Gmail Clone (React JS)",
+      "title": "Grouper",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "grouper.png",
+        "url": "https://github.com/saifalushi1/grouper"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Anime-App",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "image": "anime.png",
+        "url": "https://react-anime-app.netlify.app/"
       }
     ]
   }
