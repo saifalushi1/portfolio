@@ -1,7 +1,7 @@
 /*
  * jQuery FlexSlider v2.2.0
  * Copyright 2012 WooThemes
- * Contributing Author: Tyler Smith
+ * Contributing Author: Tyler Smith.
  */
 ;
 (function ($) {
@@ -603,7 +603,7 @@
             methods.pauseInvisible.visProp = prefixes[i] + 'Hidden';
           }
           if (methods.pauseInvisible.visProp) {
-            var evtname = methods.pauseInvisible.visProp.replace(/[H|h]idden/,'') + 'visibilitychange';
+            let evtname = methods.pauseInvisible.visProp.replace(/[H|h]idden/,'') + 'visibilitychange';
             document.addEventListener(evtname, function() {
               if (methods.pauseInvisible.isHidden()) {
                 if(slider.startTimeout) clearTimeout(slider.startTimeout); //If clock is ticking, stop timer and prevent from starting while invisible

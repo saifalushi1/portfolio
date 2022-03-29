@@ -62,7 +62,7 @@
 
 /*----------------------------------------------------*/
 /*	Make sure that #header-background-image height is
-/* equal to the browser height.
+/* equal to the browser height
 ------------------------------------------------------ */
 
    $('header').css({ 'height': $(window).height() });
