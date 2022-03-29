@@ -9,7 +9,7 @@ const About = ({ data }) => {
     var city = data.address.city;
     var state = data.address.state;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
+    
   }
 
   return (
