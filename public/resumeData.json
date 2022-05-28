@@ -103,28 +103,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Mack",
+        "title": "Mack - Instant Messaging App",
         "category": "",
-        "image": "mack.png",
+        "image": "mack.gif",
         "url": "https://github.com/saifalushi1/mack"
       },
       {
-        "title": "Tider",
+        "title": "Tider - Reddit Clone",
         "category": "",
-        "image": "tider.png",
+        "image": "tider.gif",
         "url": "https://github.com/saifalushi1/tider-frontend"
       },
       {
-      "title": "Grouper",
+      "title": "Grouper - Personal Calendar App",
         "category": "",
-        "image": "grouper.png",
+        "image": "grouper.gif",
         "url": "https://github.com/saifalushi1/grouper"
       },
       {
-        "title": "Anime-App",
+        "title": "Otaku-Emporium - Anime & Manga",
         "category": "",
-        "image": "anime.png",
-        "url": "https://react-anime-app.netlify.app/"
+        "image": "anime.gif",
+        "url": "https://otaku-emporium.netlify.app"
       }
     ]
   }
