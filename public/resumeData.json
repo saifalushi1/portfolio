@@ -66,10 +66,16 @@
         "name": "JavaScript"
       },
       {
+        "name": "TypeScript"
+      },
+      {
         "name": "Python"
       },
       {
-        "name": "SQL"
+        "name": "Java"
+      },
+      {
+        "name": "C++"
       },
       {
         "name": "React"
@@ -81,13 +87,13 @@
         "name": "Express"
       },
       {
-        "name": "Node"
+        "name": "Node.js"
+      },
+      {
+        "name": "SQL"
       },
       {
         "name": "Postgres"
-      },
-      {
-        "name": "C++"
       },
       {
         "name": "MongoDB"
@@ -96,6 +102,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Mack",
+        "category": "",
+        "image": "mack.png",
+        "url": "https://github.com/saifalushi1/mack"
+      },
       {
         "title": "Tider",
         "category": "",
