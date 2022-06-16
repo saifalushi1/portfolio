@@ -3,7 +3,7 @@
     "name": "Saif Alushi",
     "occupation": "Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hello my name is Saif Alushi! I am a junior Software Engineer who loves headaches... I mean problem sovling! My first introduction to programming was right before I started college and I asked my friend for an old textbook of his from any CS class and I taught my self C++. From there I went on to pursue my associates in computer science and work in sales. During my time at Uber I realized I looked forward to the end of the day so I could start coding. So I quit my job and attended General Assembly's software engineering bootcamp.",
+    "bio": "Hello my name is Saif Alushi! I am a junior Software Engineer who loves headaches... I mean building cool software! My first introduction to programming was right before I started college. I asked my friend for an old textbook of his from any CS class and I taught my self C++. From there I went on to pursue my associates in computer science and work in sales/client-facing roles. During my time at Uber I realized I looking forward to the end of the day so I could start building web apps more so than my actual work. So I quit my job and attended General Assembly's software engineering bootcamp.",
     "contactmessage": "Get in touch with me!",
     "email": "alushisaif@gmail.com",
     "phone": "",
@@ -41,6 +41,12 @@
       
     ],
     "work": [
+      {
+        "company": "FDM Group",
+        "title": "Software Development Consultant",
+        "years": "Apr 2022 - Present",
+        "description": "Contracted to clients that require Software Engineers. Developed applications in Java, Python, and Javascript. Developed microservices in Python using Django and deployed in AWS. Built option and stock quote parsing programs to funnel data into newly built microservices. Optimized and integrated legacy code. Practiced TDD and best practices throughout all projects."
+      },
       {
         "company": "Uber",
         "title": "SMB Consultant",
