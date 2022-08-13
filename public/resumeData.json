@@ -33,18 +33,19 @@
       {
         "school": "General Assembly",
         "degree": "Software Engineering Immersive"
-      },
-      {
-        "school": "Moraine Valley Community College",
-        "degree": "Associate Of Science, Computer Science"
-      }
-      
+      } 
     ],
     "work": [
       {
+        "company": "Pampered Chef",
+        "title": "Jr. Software Engineer",
+        "years": "Jul 2022 - Present",
+        "description": ""
+      },
+      {
         "company": "FDM Group",
         "title": "Software Development Consultant",
-        "years": "Apr 2022 - Present",
+        "years": "Apr 2022 - Jul 2022",
         "description": "Contracted to clients that require Software Engineers. Developed applications in Java, Python, and Javascript. Developed microservices in Python using Django and deployed in AWS. Built option and stock quote parsing programs to funnel data into newly built microservices. Optimized and integrated legacy code. Practiced TDD and best practices throughout all projects."
       },
       {
