@@ -46,7 +46,7 @@
         "company": "FDM Group",
         "title": "Software Development Consultant",
         "years": "Apr 2022 - Jul 2022",
-        "description": "Contracted to clients that require Software Engineers. Developed applications in Java, Python, and Javascript. Developed microservices in Python using Django and deployed in AWS. Built option and stock quote parsing programs to funnel data into newly built microservices. Optimized and integrated legacy code. Practiced TDD and best practices throughout all projects."
+        "description": "Contracted to client(s) that require Software Engineers. Developed applications in Java, Python, and Javascript. Developed microservices in Python using Django and deployed in AWS. Built option and stock quote parsing programs to funnel data into newly built microservices. Optimized and integrated legacy code. Practiced TDD and best practices throughout all projects."
       },
       {
         "company": "Uber",
