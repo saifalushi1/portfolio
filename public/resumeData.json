@@ -40,7 +40,7 @@
         "company": "Pampered Chef",
         "title": "Jr. Software Engineer",
         "years": "Jul 2022 - Present",
-        "description": "Developing and improving services with a microservices architecture. Practicing TDD, Agile, and learning clean structured system architecture (Domain-Driven-Design) Researched performance issues and implemented a solution to reduce API response times by over 53% Implementing full-stack features/services in TypeScript using Node.js, Express, RxJS, React, Angular, and MongoDB Created batch jobs for subscriptions that run on AWS. Working in a CI/CD pipeline using Jenkins and AWS for deploy"
+        "description": "Developing and improving services with a microservices architecture. Practicing TDD, Agile, and learning clean structured system architecture (Domain-Driven-Design). Researched performance issues and implemented a solution to reduce API response times by over 53%. Implementing full-stack features/services in TypeScript using Node.js, Express, RxJS, React, Angular, and MongoDB. Created batch jobs for subscriptions that run on AWS. Working in a CI/CD pipeline using Jenkins and AWS for deploy"
       },
       {
         "company": "Uber",
