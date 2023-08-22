@@ -3,7 +3,7 @@
     "name": "Saif Alushi",
     "occupation": "Software Engineer",
     "image": "profilepic.jpg",
-    "bio": "Hello my name is Saif Alushi! I am a junior Software Engineer who loves headaches... I mean building cool software! My first introduction to programming was right before I started college. I asked my friend for an old textbook of his from any CS class and I taught my self C++. From there I went on to pursue my associates in computer science and work in sales/client-facing roles. I later dropped out of college and started at Uber! During my time at Uber I realized I looking forward to the end of the day so I could start building web apps more so than my actual work. So I quit my job and attended General Assembly.",
+    "bio": "Hello my name is Saif Alushi! I am a Jr. Software Engineer who loves headaches... I mean building cool software! My first introduction to programming was right before I began college. I got started by teaching myself C++ from a friends old college textbook and went on to build my first snake game. From there I went on to pursue my associates in computer science and work in sales/client-facing roles. I later put college on hold and started at Uber for business as a SMB consultant! During my time at Uber I realized I was looking forward to the end of the day so I could start building web apps more so than my actual work. So I quit my job and finished my studies at GA.",
     "contactmessage": "Get in touch with me!",
     "email": "alushisaif@gmail.com",
     "phone": "",
@@ -32,7 +32,7 @@
     "education": [
       {
         "school": "General Assembly",
-        "degree": "Software Engineering Immersive"
+        "degree": "Software Engineering"
       } 
     ],
     "work": [
