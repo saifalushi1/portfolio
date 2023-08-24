@@ -13,7 +13,6 @@
       "state": "IL",
       "zip": ""
     },
-    "website": "https://www.papareact.com/course",
     "resumedownload": "resume.pdf",
     "social": [
       {
@@ -40,7 +39,13 @@
         "company": "Pampered Chef",
         "title": "Jr. Software Engineer",
         "years": "Jul 2022 - Present",
-        "description": "Developing and improving services with a microservices architecture. Practicing TDD, Agile, and learning clean structured system architecture (Domain-Driven-Design). Researched performance issues and implemented a solution to reduce API response times by over 53%. Implementing full-stack features/services in TypeScript using Node.js, Express, RxJS, React, Angular, and MongoDB. Created batch jobs for subscriptions that run on AWS. Working in a CI/CD pipeline using Jenkins and AWS for deploy"
+        "description": "Developing and iterating on a suite of services within a microservices architecture. Practicing TDD, Agile, and learning clean structured system design (Domain-Driven-Design). Researched performance issues and implemented a solution to reduce API response times by over 53%. Implementing full-stack features and services in TypeScript using Node.js, Express, RxJS, React, Angular, MongoDB, and kafka. Created batch jobs for subscriptions that run on AWS using LAMBDA, and SQS. Working in a CI/CD pipeline using Jenkins and AWS for deployment."
+      },
+      {
+        "company": "Free Lance",
+        "title": "Computer Science Tutor",
+        "years": "Oct 2022 - Present",
+        "description": "Collaborated with college students to provide personalized, one-on-one tutoring in computer science, addressing project challenges, clarifying course concepts, and enhancing technical skills. Designed and conducted tailored tutoring sessions to meet individual learning needs, resulting in improved understanding and academic performance. Prepared students for technical interviews by delivering focused coaching, conducting mock interviews, and providing constructive feedback. Assisted students in successfully completing coding projects by offering debugging, optimization, and code review support. Utilized real-world examples and interactive teaching methods to promote practical application of computer science theories."
       },
       {
         "company": "Uber",
@@ -51,54 +56,31 @@
       {
         "company": "Swhaus",
         "title": "Sr. Account Executive",
-        "years": "May 2020 - Aug 2021",
+        "years": "Sep 2020 - Aug 2021",
         "description": "Built and strengthened relationships with new and existing accounts to drive revenue growth. Helped implement go-to-market sales strategy using company data to accurately target our demographic. Created and managed digital marketing campaigns specifically to suit client needs. Created and assisted in content marketing strategies to help expand outreach. Client relationships that I have established but are not limited to: TVMG, Dress to Impress, Built by.AI, Sociafy, Financial Assest Protection, S2 CommerceView. Generated over $1M in revenue. Helped generate hundreds of inbound leads for our company through improved marketing campaigns and ads."
-      },
-      {
-        "company": "Chicago Connect",
-        "title": "Lead Project Account Manager",
-        "years": "May 2019 - Apr 2020",
-        "description": "Delivered engaging and polished presentations to highlight products and draw favorable competitor comparisons. Managed high-value accounts through consultative ad campaigns, effective customer solutions and promoting compelling business opportunities. Clients I have manged but not limited to: Xfinity, AT&T Oversaw business development and client analytics that lead to a 12% increase in revenue for the company during my first year. Improved account management by predicting potential competitive threats and outlining proactive solutions. Liaised communication between account holders and cross-functional departments. Assisted in total YoY growth through recommenced marketing Strategies and deep knowledge."
       }
       
     ],
     "skills": [
-      {
-        "name": "JavaScript"
-      },
-      {
-        "name": "TypeScript"
-      },
-      {
-        "name": "Python"
-      },
-      {
-        "name": "Java"
-      },
-      {
-        "name": "C++"
-      },
-      {
-        "name": "React"
-      },
-      {
-        "name": "Django"
-      },
-      {
-        "name": "Express"
-      },
-      {
-        "name": "Node.js"
-      },
-      {
-        "name": "SQL"
-      },
-      {
-        "name": "Postgres"
-      },
-      {
-        "name": "MongoDB"
-      }
+      { "name": "TypeScript" },
+      { "name": "JavaScript" },
+      { "name": "Node.js" },
+      { "name": "Express" },
+      { "name": "React" },
+      { "name": "Angular" },
+      { "name": "RxJS" },
+      { "name": "Mocha" },
+      { "name": "Chai" },
+      { "name": "Sinon" },
+      { "name": "Jest" },
+      { "name": "MongoDB" },
+      { "name": "kafka" },
+      { "name": "Python" },
+      { "name": "AWS" },
+      { "name": "Django" },
+      { "name": "Java" },
+      { "name": "SQL" },
+      { "name": "Postgres" }
     ]
   },
   "portfolio": {
